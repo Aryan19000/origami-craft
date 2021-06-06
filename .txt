@@ -1,0 +1,40 @@
+☰
+
+
+/* .camel{
+    border:3px solid;
+    height:75%;
+}
+.chameleon{
+    border:3px solid;
+}
+.pigeon{
+    border:3px solid;
+}
+.teddy{
+    border:3px solid;
+}
+.panda{
+    border:3px solid;
+}
+.cicada{
+    border:3px solid;
+} */
+/* .camel:hover img{
+    opacity:0.50;
+}
+.chameleon:hover img{
+    opacity:0.50;
+}
+.pigeon:hover img{
+    opacity:0.50;
+}
+.teddy:hover img{
+    opacity:0.50;
+}
+.panda:hover img{
+    opacity:0.50;
+}
+.cicada:hover img{
+    opacity:0.50;
+} */

@@ -1,0 +1,97 @@
+h1 {
+    text-align: left;
+    color: #4ff825;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #2e2b2b;
+}
+
+.menu {
+    background-color: #2e2b2b;
+    border-radius: 100px;
+    padding-bottom: 5px;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.menu p {
+    color: lawngreen;
+    text-align: center;
+    padding-top: 10px;
+}
+
+a {
+    padding-top: 30px;
+}
+
+.animal {
+    border: 0px solid;
+    border-radius: 50px;
+}
+
+img {
+    float: left;
+    display: block;
+}
+
+a:link {
+    color: #4ff825;
+}
+
+a:visited {
+    color: rgb(255, 0, 221);
+}
+
+.origamiIMG:hover img {
+    position: relative;
+    opacity: 0.50;
+    transform: scale(1, 1.5);
+}
+
+.origamiIMG {
+    position: relative;
+}
+
+.origamiIMG p {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+    font-size: 20px;
+    opacity: 0;
+}
+
+.origamiIMG:hover p {
+    opacity: 1;
+}
+
+.origamiIMG {
+    border: 5px solid;
+    margin-right: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    float: left;
+}
+
+ul li {
+    /* list-style-type: none; */
+    list-style-position: inside;
+    padding: 10px;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    border: 50px solid;
+    border-radius: 100px;
+    border-color: khaki;
+}
